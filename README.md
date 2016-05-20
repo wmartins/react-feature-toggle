@@ -8,7 +8,7 @@ You can check a running [demo](http://wmartins.github.io/react-feature-toggle/).
 
 ## Documentation
 
-### <FeatureToggleProvider>
+### &lt;FeatureToggleProvider&gt;
 
 This is a wrapper to handle features.
 
@@ -22,7 +22,7 @@ const features = {
 </FeatureToggleProvider>
 ```
 
-### <FeatureToggle>
+### &lt;FeatureToggle&gt;
 
 This component will show a component if a feature is enabled.
 
