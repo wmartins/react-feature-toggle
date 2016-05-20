@@ -9,7 +9,6 @@ module.exports = {
     entry: [
         `webpack-dev-server/client?http://localhost:${PORT}`,
         'webpack/hot/only-dev-server',
-        './scripts/App.jsx',
         './scripts/index'
     ],
 
