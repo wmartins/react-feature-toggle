@@ -37,7 +37,7 @@ const features = {
         <FeatureToggle feature="firstFeature">
             Hey, I am enabled!
         </FeatureToggle>
-        <FeatureToggle>
+        <FeatureToggle feature="secondFeature">
             Well, I am not enabled :(
         </FeatureToggle>
     </div>
